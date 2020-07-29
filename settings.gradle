@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "pratical_2_part_a"
